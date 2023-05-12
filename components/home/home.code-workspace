@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../nav"
+		},
+		{
+			"path": "../profile"
+		},
+		{
+			"path": "../receiver"
+		},
+		{
+			"path": "../sender"
+		},
+		{
+			"path": "../transfer"
+		},
+		{
+			"path": "../validate"
+		}
+	]
+}
